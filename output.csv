@@ -1,0 +1,6 @@
+Name,Email,phone.no,Email_Valid,Phone_Valid
+John Doe,john.doe@example.com,9876543210,True,True
+Alice Smith,alice.smith@domain,9123456789,False,True
+Rahul Mehta,rahul.mehta@company.co.in,9876543210,True,True
+Priya Kumar,priya.kumar@,9988776655,False,True
+Rohit,rohit123@gmail.com,8123456789,True,True
